@@ -1,4 +1,5 @@
 using System;
+using Sort.Helpers.Library;
 
 namespace Sort.library
 {
@@ -42,6 +43,17 @@ namespace Sort.library
         /// Return 0 if both numbers are equal.
         /// </returns>
         private static int Compare(double n1, double n2)
+        {
+            return 0;
+        }
+        
+
+        public static Car[] Sort(Car[] input)
+        {
+            throw new NotImplementedException();
+        }
+
+        private static int Compare(Car c1, Car c2)
         {
             return 0;
         }

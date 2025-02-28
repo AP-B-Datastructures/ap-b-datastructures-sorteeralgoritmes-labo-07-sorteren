@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../Sort.Helpers.Library/Sort.Helpers.Library.csproj" />
+  </ItemGroup>
+
 </Project>
