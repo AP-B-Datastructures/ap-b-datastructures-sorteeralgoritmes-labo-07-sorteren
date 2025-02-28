@@ -2,11 +2,22 @@ using System;
 
 namespace Sort.library
 {
+    /// <summary>
+    /// This class contains the Bubble sort algorithm.
+    /// </summary>
     public class BubbleSort
     {
-        public static int[] Sort(int[] input)
+        /// <summary>
+        /// Sort the given input (list of integers) in ascending order 
+        /// (from smallest to the largest number)
+        /// The list is sorted 'in-place' and since an array is passed
+        /// 'by-reference' there is no return value
+        /// </summary>
+        /// <param name="input">list of numbers</param>
+        public static void Sort(int[] input)
         {
-            throw new NotImplementedException();
+            //Todo: implement the bubble sort algorithm
+            //see also the pseudo-code in the gitbook
         }
 
         public static int[] SortAdaptive(int[] input)
