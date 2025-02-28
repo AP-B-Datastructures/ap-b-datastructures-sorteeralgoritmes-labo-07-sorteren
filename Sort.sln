@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort.library", "Sort.librar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort.tests", "Sort.tests\Sort.tests.csproj", "{EAC254DF-0D3F-49CA-BC3E-0EAD61793997}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort.Helpers.Library", "Sort.Helpers.Library\Sort.Helpers.Library.csproj", "{4B2B040E-3711-4900-AED0-54BC40147F92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{EAC254DF-0D3F-49CA-BC3E-0EAD61793997}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC254DF-0D3F-49CA-BC3E-0EAD61793997}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC254DF-0D3F-49CA-BC3E-0EAD61793997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2B040E-3711-4900-AED0-54BC40147F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2B040E-3711-4900-AED0-54BC40147F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2B040E-3711-4900-AED0-54BC40147F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2B040E-3711-4900-AED0-54BC40147F92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

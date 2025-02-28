@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="../Sort.Helpers.Library/Sort.Helpers.Library.csproj" />
     <ProjectReference Include="../Sort.library/Sort.library.csproj" />
   </ItemGroup>
 
