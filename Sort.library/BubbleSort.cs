@@ -18,6 +18,7 @@ namespace Sort.library
         {
             //Todo: implement the bubble sort algorithm
             //see also the pseudo-code in the gitbook
+            throw new NotImplementedException();
         }
 
         public static int[] SortAdaptive(int[] input)
